@@ -8,8 +8,11 @@ Conference on Research, Innovation and Vision for the Future (RIVF 2007) (long),
 link: https://github.com/duyvuleo/VNTC
 
 Để tiền xử lý dữ liêu, chạy file Preprocessing
+
 Để khám phá tập dữ liệu, chạy file EDA
+
 Để train các model Machine Learning, chạy file Model
+
 Để train model Deep Learning, chạy file Model_deep
 
 
